@@ -15,7 +15,7 @@ namespace simpleEvent {
             Console.WriteLine(" meaooowwwwwwHHHH  ... !");
             Console.WriteLine(" meaooowwwwwwHHHH  ... !");
             Console.WriteLine(" meaooowwwwwwHHHH  ... !");
-            Console.WriteLine(" hihihihihihihihi  ... !");
+            Console.WriteLine(" hi cliff how are u today =)  ... !");
             CatAttention_Handler?.Invoke(this, EventArgs.Empty);
         }
 

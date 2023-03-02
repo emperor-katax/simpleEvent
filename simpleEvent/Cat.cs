@@ -11,7 +11,7 @@ namespace simpleEvent {
         public Cat() { }
 
         public void Attracted() {
-            Console.WriteLine(" maooo ... !");
+            Console.WriteLine(" meaooowwwwwwHHHH  ... !");
             CatAttention_Handler?.Invoke(this, EventArgs.Empty);
         }
 

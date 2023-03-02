@@ -28,8 +28,8 @@ namespace simpleEvent {
 
             Console.ReadLine();
         }
-        static void ReportCat(object sender, EventArgs er) {
-            Console.WriteLine("Cat is here ... !");
+        static void ReportCat(object sender, EventArgs er) {//love this test clifff mark was here
+            Console.WriteLine("Cat is here ... !");// cats love meowwing
         }        
         static void KO(object sender, EventArgs er) {
             Console.WriteLine("KOe ... !");

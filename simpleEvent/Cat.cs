@@ -12,6 +12,10 @@ namespace simpleEvent {
 
         public void Attracted() {
             Console.WriteLine(" meaooowwwwwwHHHH  ... !");
+            Console.WriteLine(" meaooowwwwwwHHHH  ... !");
+            Console.WriteLine(" meaooowwwwwwHHHH  ... !");
+            Console.WriteLine(" meaooowwwwwwHHHH  ... !");
+            Console.WriteLine(" meaooowwwwwwHHHH  ... !");
             CatAttention_Handler?.Invoke(this, EventArgs.Empty);
         }
 

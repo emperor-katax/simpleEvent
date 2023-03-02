@@ -9,6 +9,8 @@ namespace simpleEvent {
     class CatOwner {
         public Cat Cat_01 = new Cat();
         public Cat Cat_02 = new Cat();
+        public Cat Cat_03 = new Cat();
+        public Cat Cat_04 = new Cat();
 
         public CatOwner() { }
 
